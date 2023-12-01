@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9BBB882E2B174D2E001B9F77 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBB882D2B174D2E001B9F77 /* LandmarkList.swift */; };
+		9BBB88302B175162001B9F77 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBB882F2B175162001B9F77 /* LandmarkDetail.swift */; };
 		9BDA81562B1636E800F8C57C /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDA81552B1636E800F8C57C /* LandmarksApp.swift */; };
 		9BDA81582B1636E800F8C57C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDA81572B1636E800F8C57C /* ContentView.swift */; };
 		9BDA815A2B1636E800F8C57C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BDA81592B1636E800F8C57C /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		9BBB882D2B174D2E001B9F77 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		9BBB882F2B175162001B9F77 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		9BDA81522B1636E800F8C57C /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BDA81552B1636E800F8C57C /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		9BDA81572B1636E800F8C57C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				9BDA81652B163D2F00F8C57C /* MapView.swift */,
 				9BDA81732B17499B00F8C57C /* LandmarkRow.swift */,
 				9BBB882D2B174D2E001B9F77 /* LandmarkList.swift */,
+				9BBB882F2B175162001B9F77 /* LandmarkDetail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				9BDA816E2B17477100F8C57C /* Data.swift in Sources */,
 				9BDA81662B163D2F00F8C57C /* MapView.swift in Sources */,
 				9BBB882E2B174D2E001B9F77 /* LandmarkList.swift in Sources */,
+				9BBB88302B175162001B9F77 /* LandmarkDetail.swift in Sources */,
 				9BDA81562B1636E800F8C57C /* LandmarksApp.swift in Sources */,
 				9BDA81642B163C5B00F8C57C /* CircleImage.swift in Sources */,
 				9BDA81742B17499B00F8C57C /* LandmarkRow.swift in Sources */,
