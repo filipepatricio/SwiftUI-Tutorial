@@ -39,6 +39,7 @@ struct ProfileEditor: View {
                 Text("Goal Date")
             }
         }
+        .listStyle(.inset)
     }
 }
 
