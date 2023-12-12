@@ -121,6 +121,7 @@
 		9BBB88332B17875B001B9F77 /* Helper */ = {
 			isa = PBXGroup;
 			children = (
+				9BC5B0102B28A48D00A9E470 /* FeaturedCard.swift */,
 				9BDA81632B163C5B00F8C57C /* CircleImage.swift */,
 				9BDA81652B163D2F00F8C57C /* MapView.swift */,
 				9BBB88312B1786B7001B9F77 /* FavoriteButton.swift */,
@@ -162,7 +163,6 @@
 			isa = PBXGroup;
 			children = (
 				9BC5B00E2B28A3A100A9E470 /* PageViewController.swift */,
-				9BC5B0102B28A48D00A9E470 /* FeaturedCard.swift */,
 				9BC5B0122B28A50400A9E470 /* PageView.swift */,
 			);
 			path = PageView;
